@@ -30,18 +30,10 @@
 
 <table>
   <tr>
-    <td width="26%" align="center" valign="middle">
-      <img src="assets/sprites/trainer_avatar.jpg" width="125" alt="Trainer Egor" style="border-radius: 12px;" />
-      <br/><br/>
-      <b>Trainer: Egor</b>
-      <br/>
-      <sub><b>Class:</b> Python Developer</sub>
-      <br/>
-      <sub><b>Domain:</b> Data Eng • Analytics • AI</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square" alt="Status" />
+    <td width="30%" align="center" valign="middle">
+      <img src="assets/sprites/trainer_avatar.jpg" width="180" alt="Trainer Egor" style="border-radius: 14px;" />
     </td>
-    <td width="74%" valign="top">
+    <td width="70%" valign="middle">
       <h4>🕹️ Core Tech &amp; Stack:</h4>
       <ul>
         <li>⚡ <b>Data Engineering:</b> Python, DuckDB, Polars, PostgreSQL, SQLite, ETL Pipelines</li>
