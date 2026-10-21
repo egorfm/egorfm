@@ -7,13 +7,6 @@
 
 <br/>
 
-<!-- Pixel Font Retro Typing Subtitle -->
-<a href="https://github.com/egorfm">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Python+Developer;Data+Engineering+%E2%80%A2+Analytics+%E2%80%A2+AI;Turning+complex+data+into+intelligent+systems" alt="Typing Subtitle" />
-</a>
-
-<br/>
-
 <!-- Social & Contact Badges -->
 <a href="https://t.me/egorfm">
   <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -33,7 +26,7 @@
 
 ---
 
-### 🎮 Trainer Card // Профиль разработчика
+### 🎮 Trainer Card
 
 <table>
   <tr>
@@ -49,18 +42,18 @@
       <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square" alt="Status" />
     </td>
     <td width="74%" valign="top">
-      <h4>🕹️ Character Overview:</h4>
+      <h4>🕹️ Core Tech &amp; Stack:</h4>
       <ul>
-        <li>🚀 <b>Специализация:</b> Разработчик на <b>Python</b> на стыке <b>Data Engineering</b>, <b>аналитики данных</b> и <b>AI</b>.</li>
-        <li>⚡ <b>Data Engineering:</b> Проектирование надежных пайплайнов обработки данных, работа с PostgreSQL, DuckDB, Polars и оптимизация ETL.</li>
-        <li>📊 <b>Аналитика:</b> Исследование метрик, разведочный анализ данных (EDA), когортный анализ и формулирование продуктовых выводов.</li>
-        <li>🧠 <b>Artificial Intelligence:</b> Применение ML-моделей, векторных эмбеддингов, интеграция LLM и построение интеллектуальных пайплайнов.</li>
+        <li>⚡ <b>Data Engineering:</b> Python, DuckDB, Polars, PostgreSQL, SQLite, ETL Pipelines</li>
+        <li>📊 <b>Data Analytics:</b> Pandas, NumPy, Exploratory Data Analysis (EDA), Statistics, Metrics</li>
+        <li>🧠 <b>AI &amp; Machine Learning:</b> PyTorch, Scikit-Learn, Vector Embeddings, LLMs</li>
+        <li>🛠️ <b>Tools &amp; Environment:</b> Git, GitHub, Docker, Linux, Bash, VS Code</li>
       </ul>
       <pre>
 PYTHON CORE      ████████████████████  98/100 (Architecture, Asyncio, OOP)
-DATA ENGINEERING ██████████████████░░  90/100 (Pipelines, ETL, DuckDB, SQL)
+DATA ENGINEERING ██████████████████░░  90/100 (Pipelines, DuckDB, SQL, ETL)
 DATA ANALYTICS   █████████████████░░░  85/100 (Pandas, Polars, EDA, Stats)
-AI &amp; ML SYSTEMS  ████████████████░░░░  80/100 (Vector Embeddings, LLM Ops)
+AI &amp; ML SYSTEMS  ████████████████░░░░  80/100 (Embeddings, LLMs, PyTorch)
       </pre>
     </td>
   </tr>
@@ -70,9 +63,7 @@ AI &amp; ML SYSTEMS  ████████████████░░░�
 
 ---
 
-### 🃏 Pokémon TCG Battle Deck // Карточки стека
-
-> *Коллекционные карточки EX-серии, визуализирующие ключевые направления и стек технологий:*
+### 🃏 Pokémon TCG Battle Deck
 
 <table>
   <tr>
@@ -107,7 +98,7 @@ AI &amp; ML SYSTEMS  ████████████████░░░�
 
 ---
 
-### 🧰 Tech Inventory // Инвентарь технологий
+### 🧰 Tech Inventory
 
 <div align="center">
 
@@ -151,13 +142,9 @@ AI &amp; ML SYSTEMS  ████████████████░░░�
 
 ---
 
-### 🤝 Connect // Контакты
+### 🤝 Connect
 
 <div align="center">
-
-Открыт для интересных задач, разработки архитектуры данных, аналитических проектов и AI-интеграций!
-
-<br/>
 
 <a href="https://t.me/egorfm">
   <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
