@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Quick Social Links Badges -->
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/egorfm">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="mailto:cristalys044@gmail.com">
@@ -219,8 +219,8 @@ SPEED    █████████████████░░░  85/100 (P
 
 <br/>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://img.shields.io/badge/Telegram-@your_username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<a href="https://t.me/egorfm">
+  <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 &nbsp;
 <a href="mailto:cristalys044@gmail.com">
