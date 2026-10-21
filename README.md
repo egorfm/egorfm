@@ -1,24 +1,30 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:312e81&height=200&section=header&text=Egor%20%7C%20Data%20%26%20Python%20Trainer&fontSize=30&fontAlignY=38&desc=Level%2099%20%E2%80%A2%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Data%20Analytics&descAlignY=62&descSize=15&fontColor=ffffff&descColor=38bdf8" width="100%" alt="Header Banner" />
-
-<!-- Pixel Font Animated Subtitle -->
+<!-- Custom SVG Header Banner (Zero external dependencies, renders reliably on GitHub) -->
 <a href="https://github.com/egorfm">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=70&lines=A+wild+Data+Analyst+appeared!;Catching+insights+from+raw+tables...;Python+%E2%80%A2+SQL+%E2%80%A2+Analytics+%E2%80%A2+Automation" alt="Typing SVG" />
+  <img src="assets/header_banner.svg" width="100%" alt="Egor FM - Python Developer Banner" />
 </a>
 
 <br/>
 
-<!-- Quick Social Links Badges -->
+<!-- Pixel Font Retro Typing Subtitle -->
+<a href="https://github.com/egorfm">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Python+Developer;Data+Engineering+%E2%80%A2+Analytics+%E2%80%A2+AI;Turning+complex+data+into+intelligent+systems" alt="Typing Subtitle" />
+</a>
+
+<br/>
+
+<!-- Social & Contact Badges -->
 <a href="https://t.me/egorfm">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
+&nbsp;
 <a href="mailto:cristalys044@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+&nbsp;
 <a href="https://github.com/egorfm?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/GitHub-egorfm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -27,35 +33,34 @@
 
 ---
 
-### 🎮 Trainer Card // Обо мне
+### 🎮 Trainer Card // Профиль разработчика
 
 <table>
   <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="90" alt="Pikachu" />
-      <br/>
+    <td width="26%" align="center" valign="middle">
+      <img src="assets/sprites/pikachu.gif" width="100" alt="Pikachu Sprite" />
+      <br/><br/>
       <b>Trainer: Egor</b>
       <br/>
-      <sub><b>Class:</b> Data Analyst</sub>
+      <sub><b>Class:</b> Python Developer</sub>
       <br/>
-      <sub><b>Region:</b> GitHub</sub>
+      <sub><b>Domain:</b> Data Eng • Analytics • AI</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-READY_TO_EXPLORE-brightgreen?style=flat-square" alt="Status" />
+      <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square" alt="Status" />
     </td>
-    <td width="72%" valign="top">
-      <h4>🕹️ Character Stats & Bio:</h4>
+    <td width="74%" valign="top">
+      <h4>🕹️ Character Overview:</h4>
       <ul>
-        <li>🔭 <b>Основное направление:</b> Аналитика данных, построение запросов и разработка скриптов на <b>Python</b>.</li>
-        <li>🌱 <b>Прокачиваю навыки:</b> Оптимизация сложных <b>SQL</b> запросов (PostgreSQL), оконные функции, агрегации.</li>
-        <li>⚡ <b>Суперсила:</b> Превращаю хаос из сырых данных и логов в чистые витрины, метрики и наглядные выводы.</li>
-        <li>🛠️ <b>Инструменты:</b> Python, SQL (PostgreSQL, SQLite), Pandas, NumPy, Matplotlib, Git, Docker.</li>
-        <li>💬 <b>Спросите меня о:</b> Парсинге данных, SQL-задачках, автоматизации рутины и анализе информации.</li>
+        <li>🚀 <b>Специализация:</b> Разработчик на <b>Python</b> на стыке <b>Data Engineering</b>, <b>аналитики данных</b> и <b>AI</b>.</li>
+        <li>⚡ <b>Data Engineering:</b> Проектирование надежных пайплайнов обработки данных, работа с PostgreSQL, DuckDB, Polars и оптимизация ETL.</li>
+        <li>📊 <b>Аналитика:</b> Исследование метрик, разведочный анализ данных (EDA), когортный анализ и формулирование продуктовых выводов.</li>
+        <li>🧠 <b>Artificial Intelligence:</b> Применение ML-моделей, векторных эмбеддингов, интеграция LLM и построение интеллектуальных пайплайнов.</li>
       </ul>
       <pre>
-HP       ████████████████████ 100/100 (Python Scripting)
-MANA     ██████████████████░░  90/100 (SQL & Queries)
-EXP      ████████████████░░░░  80/100 (Data Analytics & EDA)
-SPEED    █████████████████░░░  85/100 (Problem Solving)
+PYTHON CORE      ████████████████████  98/100 (Architecture, Asyncio, OOP)
+DATA ENGINEERING ██████████████████░░  90/100 (Pipelines, ETL, DuckDB, SQL)
+DATA ANALYTICS   █████████████████░░░  85/100 (Pandas, Polars, EDA, Stats)
+AI &amp; ML SYSTEMS  ████████████████░░░░  80/100 (Vector Embeddings, LLM Ops)
       </pre>
     </td>
   </tr>
@@ -65,71 +70,35 @@ SPEED    █████████████████░░░  85/100 (P
 
 ---
 
-### ⚔️ Battle Team // Карточки Покемонов и Стек
+### 🃏 Pokémon TCG Battle Deck // Карточки стека
 
-> *Каждый покемон в колоде отвечает за свою ключевую область в разработке и аналитике:*
+> *Коллекционные карточки EX-серии, визуализирующие ключевые направления и стек технологий:*
 
 <table>
   <tr>
-    <!-- CARD 1: PYTHON -->
+    <!-- CARD 1: DATA ENGINEERING -->
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/497.gif" width="95" alt="Serperior" />
+      <img src="assets/cards/card_rayquaza_de.svg" width="100%" alt="Rayquaza EX - Data Engineering" />
       <br/>
-      <b>SERPERIOR #497</b>
+      <b>⚡ DATA ENGINEERING</b>
       <br/>
-      <sub><b>Type:</b> Grass / Royal</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/ROLE-PYTHON_CORE-22c55e?style=flat-square" />
-      <br/><br/>
-      <div align="left">
-        <b>⚔️ Special Moves:</b>
-        <ul>
-          <li><code>pandas.DataFrame()</code></li>
-          <li><code>numpy.vectorize()</code></li>
-          <li><code>data_cleaning()</code></li>
-          <li><code>scripts_automation()</code></li>
-        </ul>
-      </div>
+      <sub>Python • DuckDB • PostgreSQL • Polars • ETL</sub>
     </td>
-    <!-- CARD 2: SQL -->
+    <!-- CARD 2: ANALYTICS -->
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/376.gif" width="95" alt="Metagross" />
+      <img src="assets/cards/card_porygonz_analytics.svg" width="100%" alt="Porygon-Z EX - Data Analytics" />
       <br/>
-      <b>METAGROSS #376</b>
+      <b>📊 DATA ANALYTICS</b>
       <br/>
-      <sub><b>Type:</b> Steel / Psychic</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/ROLE-SQL_ARCHITECT-0284c7?style=flat-square" />
-      <br/><br/>
-      <div align="left">
-        <b>⚔️ Special Moves:</b>
-        <ul>
-          <li><code>SELECT * FROM</code></li>
-          <li><code>MULTI_JOIN & GROUP BY</code></li>
-          <li><code>WINDOW_FUNCTIONS()</code></li>
-          <li><code>QUERY_OPTIMIZATION</code></li>
-        </ul>
-      </div>
+      <sub>EDA • Pandas • NumPy • Statistics • Insights</sub>
     </td>
-    <!-- CARD 3: ANALYTICS -->
+    <!-- CARD 3: ARTIFICIAL INTELLIGENCE -->
     <td width="33%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/474.gif" width="95" alt="Porygon-Z" />
+      <img src="assets/cards/card_mewtwo_ai.svg" width="100%" alt="Mewtwo EX - Artificial Intelligence" />
       <br/>
-      <b>PORYGON-Z #474</b>
+      <b>🧠 ARTIFICIAL INTELLIGENCE</b>
       <br/>
-      <sub><b>Type:</b> Cyber / Normal</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/ROLE-DATA_ANALYST-f59e0b?style=flat-square" />
-      <br/><br/>
-      <div align="left">
-        <b>⚔️ Special Moves:</b>
-        <ul>
-          <li><code>EDA_Inspection()</code></li>
-          <li><code>Hypothesis_Testing()</code></li>
-          <li><code>Distribution_Plot()</code></li>
-          <li><code>Actionable_Insights()</code></li>
-        </ul>
-      </div>
+      <sub>LLM Ops • Embeddings • PyTorch • Machine Learning</sub>
     </td>
   </tr>
 </table>
@@ -138,39 +107,41 @@ SPEED    █████████████████░░░  85/100 (P
 
 ---
 
-### 🧰 Tech Bag // Инвентарь навыков
+### 🧰 Tech Inventory // Инвентарь технологий
 
 <div align="center">
 
-#### Languages & Core Libraries
+#### 🐍 Python & Data Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+#### 📊 Data Analytics & Science
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-#### Databases & Storage
+#### 🧠 AI, Machine Learning & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-#### Tools & Environment
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-#### Skill Icons Matrix
+#### 🕹️ Pixel Skill Matrix
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite,git,github,docker,bash,linux,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,fastapi,pytorch,docker,git,github,bash,linux,vscode" alt="Skill Icons Matrix" />
   </a>
 </p>
 
@@ -180,66 +151,37 @@ SPEED    █████████████████░░░  85/100 (P
 
 ---
 
-### 📦 Pinned Projects // Проекты и репозитории
-
-| Проект | Стек | Описание |
-| :--- | :--- | :--- |
-| 💱 **[cbr-rates](https://github.com/egorfm/cbr-rates)** | `Python` `CLI` `API` | CLI-скрипт для быстрого получения и обработки актуальных курсов валют ЦБ РФ. |
-| 🎓 **[sql-trainer](https://github.com/egorfm/sql-trainer)** | `SQL` `PostgreSQL` `Python` | Интерактивный тренажер для оттачивания навыков составления SQL-запросов и анализа данных. |
-| 🪟 **[glass-workshop](https://github.com/egorfm/glass-workshop)** | `Web` `Fullstack` | Веб-проект автоматизации расчетов и каталога продукции для мастерской стекла. |
-
-<br/>
-
----
-
-### 📊 Gym Records // Статистика профиля
+### 🤝 Connect // Контакты
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egorfm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=f59e0b&text_color=cbd5e1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egorfm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8&text_color=cbd5e1" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egorfm&theme=tokyonight&hide_border=true&background=0D1117&stroke=38bdf8&ring=f59e0b&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" />
-</p>
-
-</div>
-
-<br/>
-
----
-
-### 🤝 Contact Gym Leader // Связаться со мной
-
-<div align="center">
-
-Готов к обсуждению аналитических задач, стажировок, проектов и коллабораций!
+Открыт для интересных задач, разработки архитектуры данных, аналитических проектов и AI-интеграций!
 
 <br/>
 
 <a href="https://t.me/egorfm">
   <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:cristalys044@gmail.com">
   <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<!-- Retro Pokémon Pixel Walking Footer -->
+<!-- Pixel Art Pokemon Walking Squad Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="70" alt="Snorlax" />
+  <img src="assets/sprites/rayquaza.gif" height="60" alt="Rayquaza" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/54.gif" width="55" alt="Psyduck" />
+  <img src="assets/sprites/pikachu.gif" height="50" alt="Pikachu" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="65" alt="Gengar" />
+  <img src="assets/sprites/mewtwo.gif" height="58" alt="Mewtwo" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/sprites/gengar.gif" height="52" alt="Gengar" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/sprites/snorlax.gif" height="58" alt="Snorlax" />
   <br/>
-  <sub><i>"A wild bug appeared... but was defeated by proper testing & clean code!" 🎮⚡</i></sub>
+  <sub><i>"Pipelines running smoothly, models converging... Level 99 achieved! 🎮⚡"</i></sub>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e1b4b,100:0f172a&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
