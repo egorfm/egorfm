@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="26%" align="center" valign="middle">
-      <img src="assets/sprites/pikachu.gif" width="100" alt="Pikachu Sprite" />
+      <img src="assets/sprites/trainer_avatar.jpg" width="125" alt="Trainer Egor" style="border-radius: 12px;" />
       <br/><br/>
       <b>Trainer: Egor</b>
       <br/>
@@ -49,12 +49,6 @@
         <li>🧠 <b>AI &amp; Machine Learning:</b> PyTorch, Scikit-Learn, Vector Embeddings, LLMs</li>
         <li>🛠️ <b>Tools &amp; Environment:</b> Git, GitHub, Docker, Linux, Bash, VS Code</li>
       </ul>
-      <pre>
-PYTHON CORE      ████████████████████  98/100 (Architecture, Asyncio, OOP)
-DATA ENGINEERING ██████████████████░░  90/100 (Pipelines, DuckDB, SQL, ETL)
-DATA ANALYTICS   █████████████████░░░  85/100 (Pandas, Polars, EDA, Stats)
-AI &amp; ML SYSTEMS  ████████████████░░░░  80/100 (Embeddings, LLMs, PyTorch)
-      </pre>
     </td>
   </tr>
 </table>
