@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Custom SVG Header Banner (Zero external dependencies, renders reliably on GitHub) -->
+<!-- Minimalist Dark Header Banner -->
 <a href="https://github.com/egorfm">
-  <img src="assets/header_banner.svg" width="100%" alt="Egor FM - Python Developer Banner" />
+  <img src="assets/header_banner.svg" width="100%" alt="Egor - Python Developer" />
 </a>
 
 <br/>
 
-<!-- Social & Contact Badges -->
+<!-- Sleek Obsidian Social Badges -->
 <a href="https://t.me/egorfm">
-  <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@egorfm-121214?style=for-the-badge&logo=telegram&logoColor=e4e4e7" alt="Telegram" />
 </a>
 &nbsp;
 <a href="mailto:cristalys044@gmail.com">
-  <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=e4e4e7" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/egorfm?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-egorfm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-egorfm-121214?style=for-the-badge&logo=github&logoColor=e4e4e7" alt="GitHub" />
 </a>
 
 </div>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/sprites/trainer_avatar_v3.jpg" width="180" alt="Trainer Egor" style="border-radius: 14px;" />
+      <img src="assets/sprites/trainer_avatar_v3.jpg" width="170" alt="Trainer Egor" style="border-radius: 12px; border: 1px solid #30363d;" />
     </td>
     <td width="70%" valign="middle">
       <h4>🕹️ Core Tech &amp; Stack:</h4>
@@ -88,38 +88,22 @@
 
 <div align="center">
 
-#### 🐍 Python & Data Engineering
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-121214?style=for-the-badge&logo=python&logoColor=e4e4e7" alt="Python" />
+  <img src="https://img.shields.io/badge/DuckDB-121214?style=for-the-badge&logo=duckdb&logoColor=e4e4e7" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Polars-121214?style=for-the-badge&logo=polars&logoColor=e4e4e7" alt="Polars" />
+  <img src="https://img.shields.io/badge/PostgreSQL-121214?style=for-the-badge&logo=postgresql&logoColor=e4e4e7" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-121214?style=for-the-badge&logo=sqlite&logoColor=e4e4e7" alt="SQLite" />
+  <img src="https://img.shields.io/badge/FastAPI-121214?style=for-the-badge&logo=fastapi&logoColor=e4e4e7" alt="FastAPI" />
 </p>
 
-#### 📊 Data Analytics & Science
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>
-
-#### 🧠 AI, Machine Learning & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-#### 🕹️ Pixel Skill Matrix
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,fastapi,pytorch,docker,git,github,bash,linux,vscode" alt="Skill Icons Matrix" />
-  </a>
+  <img src="https://img.shields.io/badge/Pandas-121214?style=for-the-badge&logo=pandas&logoColor=e4e4e7" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-121214?style=for-the-badge&logo=numpy&logoColor=e4e4e7" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PyTorch-121214?style=for-the-badge&logo=pytorch&logoColor=e4e4e7" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Docker-121214?style=for-the-badge&logo=docker&logoColor=e4e4e7" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-121214?style=for-the-badge&logo=git&logoColor=e4e4e7" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-121214?style=for-the-badge&logo=linux&logoColor=e4e4e7" alt="Linux" />
 </p>
 
 </div>
@@ -133,28 +117,15 @@
 <div align="center">
 
 <a href="https://t.me/egorfm">
-  <img src="https://img.shields.io/badge/Telegram-@egorfm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@egorfm-121214?style=for-the-badge&logo=telegram&logoColor=e4e4e7" alt="Telegram" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:cristalys044@gmail.com">
-  <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-cristalys044@gmail.com-121214?style=for-the-badge&logo=gmail&logoColor=e4e4e7" alt="Email" />
 </a>
 
 <br/><br/>
 
-<!-- Pixel Art Pokemon Walking Squad Footer -->
-<p align="center">
-  <img src="assets/sprites/rayquaza.gif" height="60" alt="Rayquaza" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/sprites/pikachu.gif" height="50" alt="Pikachu" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/sprites/mewtwo.gif" height="58" alt="Mewtwo" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/sprites/gengar.gif" height="52" alt="Gengar" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/sprites/snorlax.gif" height="58" alt="Snorlax" />
-  <br/>
-  <sub><i>"Pipelines running smoothly, models converging... Level 99 achieved! 🎮⚡"</i></sub>
-</p>
+<sub><i>"Pipelines running smoothly, models converging... Level 99 achieved."</i></sub>
 
 </div>
