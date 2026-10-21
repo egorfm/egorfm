@@ -107,6 +107,13 @@ def create_header():
   </g>
 </svg>'''
 
+import html
+
+def xml_esc(s):
+    if isinstance(s, list):
+        return [xml_esc(item) for item in s]
+    return html.escape(str(s))
+
 # ==============================================================================
 # 2. POKEMON TCG EX CARDS
 # ==============================================================================
@@ -134,6 +141,15 @@ def create_card(
     card_number,
     accent_glow
 ):
+    stage_text = xml_esc(stage_text)
+    pokemon_name = xml_esc(pokemon_name)
+    move1_name = xml_esc(move1_name)
+    move1_desc = xml_esc(move1_desc)
+    move2_name = xml_esc(move2_name)
+    move2_desc = xml_esc(move2_desc)
+    rule_desc = xml_esc(rule_desc)
+    role_badge = xml_esc(role_badge)
+
     cost1_svg = "".join([f'<circle cx="{28 + i*20}" cy="316" r="8" fill="{type_color}" stroke="#0f172a" stroke-width="1.5"/>' for i in range(move1_cost)])
     cost2_svg = "".join([f'<circle cx="{28 + i*20}" cy="404" r="8" fill="{type_color}" stroke="#0f172a" stroke-width="1.5"/>' for i in range(move2_cost)])
 
@@ -355,7 +371,7 @@ create_card(
     bg_start="#1a0b2e",
     bg_end="#0b0314",
     b64_art=mewtwo_b64,
-    role_badge="AI &amp; MACHINE LEARNING",
+    role_badge="AI & MACHINE LEARNING",
     role_color="#c084fc",
     move1_cost=2,
     move1_name="Vector Embeddings",

@@ -97,7 +97,7 @@
     <circle cx="28" cy="404" r="8" fill="#10b981" stroke="#0f172a" stroke-width="1.5"/><circle cx="48" cy="404" r="8" fill="#10b981" stroke="#0f172a" stroke-width="1.5"/><circle cx="68" cy="404" r="8" fill="#10b981" stroke="#0f172a" stroke-width="1.5"/>
     <text x="98" y="410" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="16" fill="#ffffff">Distributed Stream</text>
     <text x="392" y="411" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="20" fill="#ffffff" text-anchor="end">260</text>
-    <text x="24" y="432" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="11.5" fill="#cbd5e1">Orchestrates fault-tolerant Airflow pipelines & Kafka topics</text>
+    <text x="24" y="432" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="11.5" fill="#cbd5e1">Orchestrates fault-tolerant Airflow pipelines &amp; Kafka topics</text>
     <text x="24" y="448" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="11.5" fill="#94a3b8">with zero downtime and sub-second ingestion latency.</text>
   </g>
 
