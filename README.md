@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="assets/sprites/trainer_avatar.jpg" width="180" alt="Trainer Egor" style="border-radius: 14px;" />
+      <img src="assets/sprites/trainer_avatar_v2.jpg" width="180" alt="Trainer Egor" style="border-radius: 14px;" />
     </td>
     <td width="70%" valign="middle">
       <h4>🕹️ Core Tech &amp; Stack:</h4>
