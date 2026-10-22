@@ -12,8 +12,6 @@
 
   <h3>Backend Developer &amp; AI Automation Engineer</h3>
 
-  <p><i>Building robust backend architectures, high-scale data crawlers, and intelligent autonomous workflows.</i></p>
-
   <br/>
 
   <!-- Clean Obsidian Social Badges -->
@@ -42,9 +40,6 @@
     <td width="65%" valign="middle">
       <p>
         I'm a <b>Python Backend &amp; AI Engineer</b> with hands-on commercial experience at the intersection of scalable backend systems, automated data extraction, and AI agent orchestration.
-      </p>
-      <p>
-        Currently at <b>CDEK</b>, I engineer and maintain a distributed crawling infrastructure with <b>500+ scraping profiles</b> built on Python and Crawlab — continuously gathering pricing, stock, and catalog intelligence at scale.
       </p>
       <p>
         Alongside data systems, I design and deploy autonomous <b>AI workflow pipelines</b> using <b>LangChain, Langflow, n8n</b>, and modern <b>LLM APIs</b>, bridging real-world business logic with machine intelligence.
