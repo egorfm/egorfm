@@ -1,7 +1,6 @@
 ### Hey, I'm Egor
 
-**Python Developer (Backend / AI Automation)** with 2+ years of commercial experience.  
-Specialized in building scalable data extraction pipelines, robust backend services, and AI workflow automations.
+**Python Developer (Backend / AI Automation)** with 2+ years of commercial experience.
 
 - Architecting & maintaining large-scale data collection systems (**500+ production scraping pipelines** via Crawlab & Playwright).
 - Engineering AI workflow automations with **LLM APIs, n8n, and Langflow**.
