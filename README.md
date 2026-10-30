@@ -26,7 +26,7 @@
 
 - **Languages & Frameworks:** `Python`, `FastAPI`, `Pandas`, `NumPy`, `PyTest`
 - **Scraping & Automation:** `Playwright`, `Scrapy`, `BeautifulSoup`, `Crawlab`, `n8n`, `Langflow`
-- **AI & RAG:** `LangChain`, `ChromaDB`, `LLM APIs`, `RAG`, `Prompt Engineering`, `MCP`
+- **AI & RAG:** `LangChain`, `ChromaDB`, `Qdrant`, `LLM APIs`, `RAG`, `Prompt Engineering`, `MCP`
 - **Databases & Infrastructure:** `PostgreSQL`, `Redis`, `Docker`, `Git`, `Linux`, `Postman`
 
 ---
@@ -36,8 +36,8 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **Legal RAG Assistant** | Semantic document retrieval & analysis system using vector search and source citation | `Python` `LangChain` `ChromaDB` `RAG` |
+| **[chunklab](https://github.com/egorfm/chunklab)** | PDF chunking & retrieval benchmark evaluating strategies with 2D spatial IoU grounding | `Python` `FastAPI` `Streamlit` `Qdrant` |
 | **[price-tracker-bot](https://github.com/egorfm/price-tracker-bot)** | Telegram bot monitoring e-commerce product prices with real-time drop alerts | `Python` `Aiogram` `Playwright` `PostgreSQL` |
-| **[parse-source-tracker](https://github.com/egorfm/parse-source-tracker)** | Web dashboard for tracking and monitoring active scraping pipelines & health | `Python` `FastAPI` `HTML/CSS` |
 | **[job-aggregator](https://github.com/egorfm/job-aggregator)** | Automated collector & parser for tech job vacancies across platforms | `Python` `Scrapy` `Data Pipeline` |
 
 ---
