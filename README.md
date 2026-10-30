@@ -6,19 +6,19 @@
 
 <br/>
 
-### Привет, я Егор 👋
+### Hey, I'm Egor 👋
 
-**Python-разработчик (Backend / AI Automation)** с опытом более 2 лет.  
-Специализируюсь на создании масштабируемых систем сбора данных, бэкенд-разработке и внедрении AI-решений.
+**Python Developer (Backend / AI Automation)** with 2+ years of commercial experience.  
+Specialized in building scalable data extraction pipelines, robust backend services, and AI workflow automations.
 
-Сейчас работаю в **СДЭК**:
-- 🕷️ Разрабатываю и поддерживаю инфраструктуру сбора данных (**500+ профилей парсинга** на Crawlab и Playwright).
-- 🤖 Проектирую сценарии автоматизации на базе **LLM API, n8n и Langflow**.
-- 📊 Занимаюсь валидацией, очисткой и предобработкой данных.
+Currently at **CDEK**:
+- 🕷️ Architecting & maintaining data collection infrastructure (**500+ scraping pipelines** via Crawlab & Playwright).
+- 🤖 Engineering AI workflow automations with **LLM APIs, n8n, and Langflow**.
+- 📊 Data cleaning, validation, and ETL pipeline optimization.
 
 ---
 
-### 🛠️ Стек технологий
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D102F?style=flat-square&logo=python&logoColor=D2D4DA" alt="Python" />
@@ -34,22 +34,22 @@
   <img src="https://img.shields.io/badge/Linux-0D102F?style=flat-square&logo=linux&logoColor=D2D4DA" alt="Linux" />
 </p>
 
-- **Языки и библиотеки:** `Python`, `FastAPI`, `Pandas`, `NumPy`, `PyTest`
-- **Парсинг и автоматизация:** `Playwright`, `Scrapy`, `BeautifulSoup`, `Crawlab`, `n8n`, `Langflow`
+- **Languages & Frameworks:** `Python`, `FastAPI`, `Pandas`, `NumPy`, `PyTest`
+- **Scraping & Automation:** `Playwright`, `Scrapy`, `BeautifulSoup`, `Crawlab`, `n8n`, `Langflow`
 - **AI & RAG:** `LangChain`, `ChromaDB`, `LLM APIs`, `RAG`, `Prompt Engineering`, `MCP`
-- **Базы данных и инфраструктура:** `PostgreSQL`, `Redis`, `Docker`, `Git`, `Linux`, `Postman`
+- **Databases & Infrastructure:** `PostgreSQL`, `Redis`, `Docker`, `Git`, `Linux`, `Postman`
 
 ---
 
-### 📌 Проекты
+### 📌 Featured Projects
 
-| Проект | Описание | Стек |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Юридический RAG-ассистент** | Система поиска и семантического анализа документов с векторным поиском и цитированием статей | `Python` `LangChain` `ChromaDB` `RAG` |
-| **[price-tracker-bot](https://github.com/egorfm/price-tracker-bot)** | Telegram-бот для регулярного трекинга цен на товары с оповещениями о снижении стоимости | `Python` `Aiogram` `Playwright` `PostgreSQL` |
-| **[parse-source-tracker](https://github.com/egorfm/parse-source-tracker)** | Веб-интерфейс для отслеживания рабочих источников и статусов парсинга | `Python` `FastAPI` `HTML/CSS` |
-| **[job-aggregator](https://github.com/egorfm/job-aggregator)** | Агрегатор IT-вакансий с автоматизированным сбором и структурированием | `Python` `Scrapy` `Data Pipeline` |
-| **[cbr-rates](https://github.com/egorfm/cbr-rates)** | Быстрый CLI-скрипт для получения актуальных курсов валют ЦБ РФ | `Python` `CLI` `REST API` |
+| **Legal RAG Assistant** | Semantic document retrieval & analysis system using vector search and source citation | `Python` `LangChain` `ChromaDB` `RAG` |
+| **[price-tracker-bot](https://github.com/egorfm/price-tracker-bot)** | Telegram bot monitoring e-commerce product prices with real-time drop alerts | `Python` `Aiogram` `Playwright` `PostgreSQL` |
+| **[parse-source-tracker](https://github.com/egorfm/parse-source-tracker)** | Web dashboard for tracking and monitoring active scraping pipelines & health | `Python` `FastAPI` `HTML/CSS` |
+| **[job-aggregator](https://github.com/egorfm/job-aggregator)** | Automated collector & parser for tech job vacancies across platforms | `Python` `Scrapy` `Data Pipeline` |
+| **[cbr-rates](https://github.com/egorfm/cbr-rates)** | Lightweight CLI utility for fetching official Bank of Russia exchange rates | `Python` `CLI` `REST API` |
 
 ---
 
