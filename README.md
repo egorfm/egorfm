@@ -1,23 +1,15 @@
-<div align="center">
-
-<img src="assets/banner.jpg" alt="Create the things you wish existed" width="640" style="border-radius: 8px;" />
-
-</div>
-
-<br/>
-
-### Hey, I'm Egor 👋
+### Hey, I'm Egor
 
 **Python Developer (Backend / AI Automation)** with 2+ years of commercial experience.  
 Specialized in building scalable data extraction pipelines, robust backend services, and AI workflow automations.
 
-- 🕷️ Architecting & maintaining large-scale data collection systems (**500+ production scraping pipelines** via Crawlab & Playwright).
-- 🤖 Engineering AI workflow automations with **LLM APIs, n8n, and Langflow**.
-- 📊 Data cleaning, validation, and ETL pipeline optimization.
+- Architecting & maintaining large-scale data collection systems (**500+ production scraping pipelines** via Crawlab & Playwright).
+- Engineering AI workflow automations with **LLM APIs, n8n, and Langflow**.
+- Data cleaning, validation, and ETL pipeline optimization.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D102F?style=flat-square&logo=python&logoColor=D2D4DA" alt="Python" />
@@ -40,7 +32,7 @@ Specialized in building scalable data extraction pipelines, robust backend servi
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -48,24 +40,15 @@ Specialized in building scalable data extraction pipelines, robust backend servi
 | **[price-tracker-bot](https://github.com/egorfm/price-tracker-bot)** | Telegram bot monitoring e-commerce product prices with real-time drop alerts | `Python` `Aiogram` `Playwright` `PostgreSQL` |
 | **[parse-source-tracker](https://github.com/egorfm/parse-source-tracker)** | Web dashboard for tracking and monitoring active scraping pipelines & health | `Python` `FastAPI` `HTML/CSS` |
 | **[job-aggregator](https://github.com/egorfm/job-aggregator)** | Automated collector & parser for tech job vacancies across platforms | `Python` `Scrapy` `Data Pipeline` |
-| **[cbr-rates](https://github.com/egorfm/cbr-rates)** | Lightweight CLI utility for fetching official Bank of Russia exchange rates | `Python` `CLI` `REST API` |
 
 ---
 
-<div align="center">
-
-<p>
+<p align="center">
   <a href="https://t.me/egorfm" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@egorfm-0D102F?style=flat-square&logo=telegram&logoColor=D2D4DA" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="mailto:massacroqse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-massacroqse%40gmail.com-0D102F?style=flat-square&logo=gmail&logoColor=D2D4DA" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/egorfm" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-egorfm-0D102F?style=flat-square&logo=github&logoColor=D2D4DA" alt="GitHub" />
   </a>
 </p>
-
-</div>
