@@ -26,10 +26,10 @@
 </p>
 
 - **Languages & Frameworks:** `Python`, `FastAPI`, `Pandas`, `NumPy`, `SciPy`, `PyTest`
-- **Data & Kinematics:** `10Hz Spatial-Temporal Tracking`, `Savitzky-Golay Filtering`, `Feature Engineering`, `Matplotlib`, `Seaborn`
+- **Data & Kinematics:** `10Hz Spatial-Temporal Tracking`, `Savitzky-Golay Filtering`, `Feature Engineering`, `Matplotlib`
 - **AI & RAG:** `LangChain`, `ChromaDB`, `Qdrant`, `LLM APIs`, `RAG Evaluation`, `Prompt Defense`, `MCP`
 - **Scraping & Automation:** `Playwright`, `Scrapy`, `BeautifulSoup`, `Crawlab`, `n8n`, `Langflow`
-- **Databases & Infrastructure:** `PostgreSQL`, `Redis`, `Docker`, `Git`, `Linux`, `Postman`
+- **Databases & Infrastructure:** `PostgreSQL`, `Docker`, `Git`, `Postman`
 
 ---
 
