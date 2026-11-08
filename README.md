@@ -42,8 +42,4 @@
   <a href="https://t.me/egorfm" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@egorfm-0D102F?style=flat-square&logo=telegram&logoColor=D2D4DA" alt="Telegram" />
   </a>
-  &nbsp;
-  <a href="https://github.com/egorfm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-egorfm-0D102F?style=flat-square&logo=github&logoColor=D2D4DA" alt="GitHub" />
-  </a>
 </p>
