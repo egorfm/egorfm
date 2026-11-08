@@ -1,5 +1,3 @@
-### Hey, I'm Egor
-
 **Python Developer (Backend / AI Automation / Data Science)**
 
 ---
