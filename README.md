@@ -20,21 +20,20 @@
 </p>
 
 - **Languages & Frameworks:** `Python`, `FastAPI`, `Pandas`, `NumPy`, `SciPy`, `PyTest`
-- **Data & Kinematics:** `10Hz Spatial-Temporal Tracking`, `Savitzky-Golay Filtering`, `Feature Engineering`, `Matplotlib`
 - **AI & RAG:** `LangChain`, `ChromaDB`, `Qdrant`, `LLM APIs`, `RAG Evaluation`, `Prompt Defense`, `MCP`
 - **Scraping & Automation:** `Playwright`, `Scrapy`, `BeautifulSoup`, `Crawlab`, `n8n`, `Langflow`
-- **Databases & Infrastructure:** `PostgreSQL`, `Docker`, `Git`, `Postman`
+- **Databases & Infrastructure:** `PostgreSQL`, `Docker`, `Git`
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[🏈 The Deceleration Engine](https://github.com/egorfm/nfl-big-data-bowl-2027)**<br/><sub>`NFL Big Data Bowl 2027 Research`</sub> | **Sports Analytics & Kinematics Research:** Bridging 10Hz Combine RFID sensor tracking & in-game NGS tracking across 100k+ plays. Developed `BRK+` metric proving receiver deceleration creates elite route separation. | `Python` `SciPy` `Kinematics` `Pandas` `Matplotlib` `Kaggle` |
-| **[🧩 chunklab](https://github.com/egorfm/chunklab)**<br/><sub>`RAG Chunking Benchmark`</sub> | **RAG & Document Intelligence:** Evaluation & benchmarking framework comparing PDF chunking strategies with 2D spatial IoU grounding and retrieval quality scoring. | `Python` `FastAPI` `Streamlit` `Qdrant` `RAG` |
-| **[🛡️ prompt-injection](https://github.com/egorfm/prompt-injection)**<br/><sub>`LLM Security & Defense`</sub> | **AI Safety & Adversarial Testing:** Automated testing harness evaluating LLM resilience against indirect prompt injections, jailbreaks, and system prompt leakage. | `Python` `LangChain` `LLM Security` `Prompt Defense` |
-| **[🔑 leak-guard](https://github.com/egorfm/leak-guard)**<br/><sub>`DevSecOps Secret Scanner`</sub> | **Security & Code Analysis:** High-performance scanner detecting exposed API keys, private tokens, and high-entropy credentials across Git commit histories. | `Python` `Git Analysis` `Entropy Detection` `CLI` |
+| **[ The Deceleration Engine](https://github.com/egorfm/nfl-big-data-bowl-2027)**<br/><sub>`NFL Big Data Bowl 2027 Research`</sub> | **Sports Analytics & Kinematics Research:** Bridging 10Hz Combine RFID sensor tracking & in-game NGS tracking across 100k+ plays. Developed `BRK+` metric proving receiver deceleration creates elite route separation. | `Python` `SciPy` `Kinematics` `Pandas` `Matplotlib` `Kaggle` |
+| **[ chunklab](https://github.com/egorfm/chunklab)**<br/><sub>`RAG Chunking Benchmark`</sub> | **RAG & Document Intelligence:** Evaluation & benchmarking framework comparing PDF chunking strategies with 2D spatial IoU grounding and retrieval quality scoring. | `Python` `FastAPI` `Streamlit` `Qdrant` `RAG` |
+| **[ prompt-injection](https://github.com/egorfm/prompt-injection)**<br/><sub>`LLM Security & Defense`</sub> | **AI Safety & Adversarial Testing:** Automated testing harness evaluating LLM resilience against indirect prompt injections, jailbreaks, and system prompt leakage. | `Python` `LangChain` `LLM Security` `Prompt Defense` |
+| **[ leak-guard](https://github.com/egorfm/leak-guard)**<br/><sub>`DevSecOps Secret Scanner`</sub> | **Security & Code Analysis:** High-performance scanner detecting exposed API keys, private tokens, and high-entropy credentials across Git commit histories. | `Python` `Git Analysis` `Entropy Detection` `CLI` |
 
 ---
 
