@@ -2,10 +2,6 @@
 
 **Python Developer (Backend / AI Automation / Data Science)**
 
-- Architecting data collection systems, spatial-temporal analytics & ETL pipelines.
-- Engineering AI workflow automations with **LLM APIs, n8n, and Langflow**.
-- LLM security evaluation, RAG retrieval optimization, and reproducible research.
-
 ---
 
 ### Tech Stack
