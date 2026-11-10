@@ -186,8 +186,8 @@ def hero():
   <text x="48" y="396" font-family="{MONO}" font-size="13" fill="{INK}">t.me/egorfm</text>
   <text class="nu" x="146" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
   <text x="180" y="396" font-family="{MONO}" font-size="13" fill="{MUTED}">·</text>
-  <text x="200" y="396" font-family="{MONO}" font-size="13" fill="{INK}">github.com/egorfm</text>
-  <text class="nu" x="345" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
+  <text x="200" y="396" font-family="{MONO}" font-size="13" fill="{INK}">linkedin.com/in/egor-fominykh</text>
+  <text class="nu" x="440" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
 </g>
 <g transform="translate(520 46) scale({s}) translate(-20 -37)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   {''.join(portrait)}

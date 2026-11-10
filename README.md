@@ -3,7 +3,7 @@
      Spacing is baked into the SVGs, so keep this block free of blank lines and keep cards in
      a row on one line with no spaces between them. -->
 <div align="center">
-<a href="https://github.com/egorfm"><img src="./cards/hero.svg" width="100%" alt="Egor Fominykh. Python Developer (Backend / AI Automation)" /></a><br>
+<a href="https://www.linkedin.com/in/egor-fominykh-b66825449/"><img src="./cards/hero.svg" width="100%" alt="Egor Fominykh. Python Developer (Backend / AI Automation)" /></a><br>
 <img src="./cards/heatmap.svg" width="100%" alt="Egor's contribution graph, in blue, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
 <a href="https://github.com/egorfm/chunklab"><img src="./cards/build.svg" width="33.333%" alt="AI & RAG: 2 frameworks" /></a><a href="https://github.com/egorfm/nfl-big-data-bowl-2027"><img src="./cards/brand.svg" width="33.333%" alt="RESEARCH: 100k+ plays" /></a><a href="https://github.com/egorfm/leak-guard"><img src="./cards/learn.svg" width="33.333%" alt="DEVSECOPS: 1 scanner" /></a><br>
@@ -15,5 +15,5 @@
 </div>
 
 <p align="center">
-<a href="https://t.me/egorfm">telegram: @egorfm</a> &nbsp;/&nbsp; <a href="https://github.com/egorfm">github.com/egorfm</a>
+<a href="https://t.me/egorfm">telegram: @egorfm</a> &nbsp;/&nbsp; <a href="https://www.linkedin.com/in/egor-fominykh-b66825449/">linkedin.com/in/egor-fominykh</a>
 </p>
