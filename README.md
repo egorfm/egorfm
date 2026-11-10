@@ -1,4 +1,4 @@
-### **Python Developer (Backend / AI Automation / Data Science)**
+### **Python Developer (Backend / AI Automation)**
 
 ---
 
