@@ -6,7 +6,7 @@
 <img src="./cards/hero-v3.svg" width="100%" alt="Egor Fominykh. Python Developer (Backend / AI Automation)" /><br>
 <img src="./cards/heatmap.svg" width="100%" alt="Egor's contribution graph, in blue, refreshed daily" /><br>
 <img src="./cards/activity.svg" width="100%" alt="Contributions in the last 12 months, by month, with streak and busiest day" /><br>
-<a href="https://github.com/egorfm/chunklab"><img src="./cards/build.svg" width="33.333%" alt="AI & RAG: 2 frameworks" /></a><a href="https://github.com/egorfm/nfl-big-data-bowl-2027"><img src="./cards/brand.svg" width="33.333%" alt="RESEARCH: 100k+ plays" /></a><a href="https://github.com/egorfm/leak-guard"><img src="./cards/learn.svg" width="33.333%" alt="DEVSECOPS: 1 scanner" /></a><br>
+<a href="https://github.com/egorfm/avito-ml-cup-2026"><img src="./cards/avito-ml-cup.svg" width="33.333%" alt="AvitoTech ML Cup 2026" /></a><a href="https://github.com/egorfm/nfl-big-data-bowl-2027"><img src="./cards/nfl-big-data-bowl.svg" width="33.333%" alt="NFL Big Data Bowl 2027 Research" /></a><a href="https://github.com/egorfm/leak-guard"><img src="./cards/learn.svg" width="33.333%" alt="DEVSECOPS: 1 scanner" /></a><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-stack-dark.svg" /><img src="./cards/title-stack-light.svg" width="100%" alt="Tech stack" /></picture><br>
 <img src="./cards/tech-stack.svg" width="100%" alt="Tech stack: Languages, Frameworks, AI, Scraping & Automation, Infrastructure" /><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="./cards/title-projects-dark.svg" /><img src="./cards/title-projects-light.svg" width="100%" alt="Featured projects" /></picture><br>

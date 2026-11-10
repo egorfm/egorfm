@@ -229,6 +229,116 @@ def count_up(num, word, x, y, attrs, begin, dur=1.1, frames=18):
     return "".join(out)
 
 
+def tile_avito(pos=0):
+    name = "avito-ml-cup"
+    label = "AVITOTECH"
+    on = "#ffffff"
+    delay = 3.1
+    blurb = "Personalized recommendation feed ranking with CatBoost and 33 behavioral features."
+    lines = wrap(blurb, 34)
+    blurb_svg = "".join(
+        f'<text class="r" {d(delay + 0.75 + i * 0.1)} x="24" y="{150 + i * 20}" font-family="{SANS}" '
+        f'font-size="14" fill="{on}" opacity=".92">{escape(l)}</text>'
+        for i, l in enumerate(lines)
+    )
+    body = f"""
+<defs>
+  <clipPath id="card-{name}"><rect width="{TILE_W}" height="{TILE_H}" rx="14"/></clipPath>
+  <clipPath id="slot-{name}"><rect x="0" y="62" width="{TILE_W}" height="62"/></clipPath>
+  <linearGradient id="bg-{name}" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b0d26"/>
+    <stop offset=".55" stop-color="#151744"/>
+    <stop offset="1" stop-color="#3b1778"/>
+  </linearGradient>
+  <linearGradient id="gl-{name}" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="ti" {d(delay)}>
+  <g clip-path="url(#card-{name})">
+    <rect width="{TILE_W}" height="{TILE_H}" fill="url(#bg-{name})"/>
+    <ellipse cx="260" cy="50" rx="90" ry="60" fill="none" stroke="#8b5cf6" stroke-width="26" opacity="0.32" transform="rotate(-30 260 50)"/>
+    <circle class="rg" {d(delay + 0.5)} cx="{TILE_W - 40}" cy="{TILE_H - 40}" r="60" fill="none" stroke="#a78bfa" stroke-opacity=".3" stroke-width="2"/>
+    <rect class="sh" style="animation-delay:{delay + 1.4:.2f}s" x="0" y="-20" width="90" height="{TILE_H + 40}" fill="url(#gl-{name})" transform="translate(-260 0)"/>
+  </g>
+  <!-- Avito 4 colored dots -->
+  <g class="sl" {d(delay + 0.35)}>
+    <circle cx="27" cy="35" r="3.2" fill="#00aa44"/>
+    <circle cx="35" cy="35" r="3.2" fill="#0099ff"/>
+    <circle cx="43" cy="35" r="3.2" fill="#ff4053"/>
+    <circle cx="51" cy="35" r="3.2" fill="#8033ff"/>
+    <text x="63" y="38" font-family="{MONO}" font-size="12" letter-spacing="1.2" fill="{on}">{escape(label)}</text>
+  </g>
+  <g class="ai" {d(delay + 0.5)}><text class="n" style="animation-delay:{delay + 1.3:.2f}s" x="250" y="38" font-family="{MONO}" font-size="14" fill="{on}">&#8594;</text></g>
+  <g clip-path="url(#slot-{name})"><g class="ro" {d(delay + 0.45)}>
+    <text x="22" y="112" font-family="{SERIF}" font-size="44" fill="{on}">ML Cup <tspan font-style="italic">2026</tspan></text>
+  </g></g>
+  {blurb_svg}
+</g>
+"""
+    svg_data = svg(
+        TILE_W,
+        TILE_H,
+        body,
+        ["serif", "serif-i", "sans", "mono"],
+        f"{label}: ML Cup 2026. {blurb}",
+        left=4 * pos,
+        right=8 - 4 * pos,
+    )
+    write(f"{name}.svg", svg_data)
+    write("build.svg", svg_data)
+
+
+def tile_nfl(pos=1):
+    name = "nfl-big-data-bowl"
+    label = "NFL BIG DATA BOWL"
+    on = "#ffffff"
+    delay = 3.35
+    blurb = "10Hz RFID & NGS tracking separation with BRK+ kinematic deceleration metric."
+    lines = wrap(blurb, 34)
+    blurb_svg = "".join(
+        f'<text class="r" {d(delay + 0.75 + i * 0.1)} x="24" y="{150 + i * 20}" font-family="{SANS}" '
+        f'font-size="14" fill="{on}" opacity=".92">{escape(l)}</text>'
+        for i, l in enumerate(lines)
+    )
+    body = f"""
+<defs>
+  <clipPath id="card-{name}"><rect width="{TILE_W}" height="{TILE_H}" rx="14"/></clipPath>
+  <clipPath id="slot-{name}"><rect x="0" y="62" width="{TILE_W}" height="62"/></clipPath>
+  <linearGradient id="gl-{name}" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+</defs>
+<g class="ti" {d(delay)}>
+  <g clip-path="url(#card-{name})">
+    <rect width="{TILE_W}" height="{TILE_H}" fill="#c8102e"/>
+    <!-- Top corner NFL Navy accent tab -->
+    <polygon points="175,0 {TILE_W},0 {TILE_W},18 195,18" fill="#013369"/>
+    <!-- Gridiron yard lines -->
+    <line x1="0" y1="126" x2="{TILE_W}" y2="126" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="6,8" stroke-width="1.5"/>
+    <line x1="210" y1="0" x2="210" y2="70" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+    <circle class="rg" {d(delay + 0.5)} cx="{TILE_W - 40}" cy="{TILE_H - 40}" r="60" fill="none" stroke="#ffffff" stroke-opacity=".35" stroke-width="2"/>
+    <rect class="sh" style="animation-delay:{delay + 1.4:.2f}s" x="0" y="-20" width="90" height="{TILE_H + 40}" fill="url(#gl-{name})" transform="translate(-260 0)"/>
+  </g>
+  <text class="sl" {d(delay + 0.35)} x="24" y="38" font-family="{MONO}" font-size="12" letter-spacing="1.2" fill="{on}">{escape(label)}</text>
+  <g class="ai" {d(delay + 0.5)}><text class="n" style="animation-delay:{delay + 1.3:.2f}s" x="250" y="38" font-family="{MONO}" font-size="14" fill="{on}">&#8594;</text></g>
+  <g clip-path="url(#slot-{name})"><g class="ro" {d(delay + 0.45)}>
+    {count_up("2027", "Research", 22, 112, f'font-family="{SERIF}" font-size="44" fill="{on}"', delay + 0.45)}
+  </g></g>
+  {blurb_svg}
+</g>
+"""
+    svg_data = svg(
+        TILE_W,
+        TILE_H,
+        body,
+        ["serif", "serif-i", "sans", "mono"],
+        f"{label}: 2027 Research. {blurb}",
+        left=4 * pos,
+        right=8 - 4 * pos,
+    )
+    write(f"{name}.svg", svg_data)
+    write("brand.svg", svg_data)
+
+
 def tile(name, label, color, on, num, word, blurb, delay, pos):
     lines = wrap(blurb, 34)
     blurb_svg = "".join(
@@ -529,28 +639,8 @@ if __name__ == "__main__":
     activity(data)
 
     # 3 Worlds / Pillars
-    tile(
-        "build",
-        "AI & RAG",
-        TECH,
-        "#ffffff",
-        "2",
-        "frameworks",
-        "chunklab spatial RAG benchmark with IoU grounding & prompt injection defense.",
-        3.1,
-        0,
-    )
-    tile(
-        "brand",
-        "RESEARCH",
-        STUDIO,
-        "#ffffff",
-        "100k+",
-        "plays",
-        "NFL Big Data Bowl: 10Hz RFID & NGS tracking separation with BRK+ metric.",
-        3.35,
-        1,
-    )
+    tile_avito(0)
+    tile_nfl(1)
     tile(
         "learn",
         "DEVSECOPS",
