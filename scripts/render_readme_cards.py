@@ -183,11 +183,11 @@ def hero():
   {text_lines(48, 338, ["Backend architecture, AI & RAG evaluation,", "web scraping and DevSecOps automation."], 27, f'font-family="{SANS}" font-size="18" fill="{INK_SOFT}"')}
 </g>
 <g class="f" {d(0.8)}>
-  <text x="48" y="396" font-family="{MONO}" font-size="13" fill="{INK}">t.me/egorfm</text>
-  <text class="nu" x="146" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
-  <text x="180" y="396" font-family="{MONO}" font-size="13" fill="{MUTED}">·</text>
-  <text x="200" y="396" font-family="{MONO}" font-size="13" fill="{INK}">linkedin.com/in/egor-fominykh</text>
-  <text class="nu" x="440" y="396" font-family="{MONO}" font-size="13" fill="{TECH}">&#8599;</text>
+  <text x="48" y="396" font-family="{MONO}" font-size="12" fill="{INK}">t.me/egorfm</text>
+  <text class="nu" x="136" y="396" font-family="{MONO}" font-size="12" fill="{TECH}">&#8599;</text>
+  <text x="160" y="396" font-family="{MONO}" font-size="12" fill="{MUTED}">·</text>
+  <text x="176" y="396" font-family="{MONO}" font-size="12" fill="{INK}">linkedin.com/in/egor-fominykh-b66825449</text>
+  <text class="nu" x="464" y="396" font-family="{MONO}" font-size="12" fill="{TECH}">&#8599;</text>
 </g>
 <g transform="translate(520 46) scale({s}) translate(-20 -37)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   {''.join(portrait)}
