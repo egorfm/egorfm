@@ -201,6 +201,7 @@ def hero():
         "Egor Fominykh. Python Developer (Backend / AI Automation).",
     )
     write("hero.svg", card_svg)
+    write("hero-v3.svg", card_svg)
     write("hero-card.svg", card_svg)
 
 
