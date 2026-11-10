@@ -193,16 +193,15 @@ def hero():
   {''.join(portrait)}
 </g>
 """
-    write(
-        "hero.svg",
-        svg(
-            W,
-            h,
-            body,
-            ["serif", "serif-i", "sans", "mono"],
-            "Egor Fominykh. Python Developer (Backend / AI Automation).",
-        ),
+    card_svg = svg(
+        W,
+        h,
+        body,
+        ["serif", "serif-i", "sans", "mono"],
+        "Egor Fominykh. Python Developer (Backend / AI Automation).",
     )
+    write("hero.svg", card_svg)
+    write("hero-card.svg", card_svg)
 
 
 # ---- 2 · world tiles ----------------------------------------------------------
